@@ -1,3 +1,1 @@
-Salut c'est Arthur !
-Actuellemnt à la recherche d'un stage en Informatique ...
-Hésitez pas à me contactez par mail : arthur.pinel@universite-paris-saclay.fr
+Salut c'est Arthur 😎
