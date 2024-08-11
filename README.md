@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center"> Someone whos trying to be the GOAT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marsusier&label=Profile%20views&color=0e75b6&style=flat" alt="marsusier" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LePeruvienn&label=Profile%20views&color=0e75b6&style=flat" alt="LePeruvienn" /> </p>
 
 - 🔭 I’m currently working on **me**
 
