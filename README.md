@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Unity/Web Game dev & Web dev**<br>🌱 I’m currently learning **Computer Science**<br>⚡ Fun fact **I am Peruvian**
+🔭 I’m currently working on **Unity/Web Game dev**<br>🌱 I’m currently learning **Computer Science**<br>⚡ Fun fact **I am Peruvian**
 
 
 ## 🌐 Socials:
