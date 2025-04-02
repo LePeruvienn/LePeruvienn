@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm Arthur</h2>
 
-<p> I love coding and make cool stuffs 🥷  </p>
+<p> I love coding and making cool stuffs 🥷  </p>
 
 
 👾 **Game Developer**  <br>  🔭 **Working on** [BrotaFEUR](https://github.com/LePeruvienn/brotaFEUR) <br>  📚 **Learning** SFML & OpenGL <br>   
