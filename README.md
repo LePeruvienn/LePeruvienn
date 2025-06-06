@@ -3,7 +3,9 @@
 <p> I love coding and making cool stuffs 🥷  </p>
 
 
-👾 **Game Developer**  <br>  🔭 **Working on** [BrotaFEUR](https://github.com/LePeruvienn/brotaFEUR) <br>  📚 **Learning** SFML & OpenGL <br>   
+👾 **Game Developer**  <br> 
+🔭 **Working on** [BrotaFEUR](https://github.com/LePeruvienn/brotaFEUR) and an [Horror Game](https://github.com/LePeruvienn/horror-game-2025) <br> 
+📚 **Learning** SFML & OpenGL <br>   
 
 
 <h4 align="left">I LIKE ❤️</h4>
