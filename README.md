@@ -24,10 +24,6 @@
 
 ###
 
-<h4 align="left">Feel free to contact me for anything !</h4>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=@leperuvien&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/arthur-pinel-dev/" target="_blank">
